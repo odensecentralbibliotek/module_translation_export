@@ -1,0 +1,6 @@
+name = module_translation_export
+description = exports per module translations with context
+core = 7.x
+package = Multilingual - export
+dependencies[] = i18n
+dependencies[] = locale

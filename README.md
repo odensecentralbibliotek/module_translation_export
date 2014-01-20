@@ -1,0 +1,1 @@
+Exports translations for a module with context as a .po file
